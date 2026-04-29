@@ -1,0 +1,19 @@
+# Ignore local environment files
+*.env
+*.local
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# SQL Server backup files
+*.bak
+*.mdf
+*.ldf
+
+# Editor directories
+.vscode/
+.idea/
